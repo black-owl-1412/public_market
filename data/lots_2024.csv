@@ -1,0 +1,601 @@
+ref_consultation,org_acronyme,lot_numero,lot_intitule,categorie,description,estimation_ttc,caution_provisoire,qualifications,agrements,variante,reserve_pme
+762014,g3h,1,,Travaux,,731676.0,14000.0,,,False,True
+769978,o8p,1,,Services,,151152.0,3000.0,,,False,False
+808726,o8p,1,,Services,,27230000.0,0.0,,,False,False
+815488,d4q,1,,Travaux,,26442000.0,500000.0,,,False,False
+818670,w9x,1,,Fournitures,,1790400.0,35000.0,,,False,False
+825380,o8p,1,,Services,,500000.0,9000.0,,"D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages D17- Voirie, réseaux d'assainissement et eau potable",False,False
+828088,s3z,1,,Travaux,,1378800.0,27000.0,Equipement / X- Signalisation et equipements de securite / X.2- Travaux de signalisation verticale et équipements de sécurité / Classe 2,,False,False
+831314,g8e,1,,Travaux,,540960.0,5000.0,,,False,True
+832755,g8e,1,,Services,,492000.0,8000.0,,,False,False
+833105,m8x,1,,Services,,25627.68,500.0,,,False,True
+833599,m8x,1,,Services,,60952.38,1200.0,,,False,True
+833785,x6c,1,,Services,,0.0,0.0,,,False,False
+836404,p8x,1,Produits chimiques pour automate de biochimie COBAS C311,Fournitures,,1471489.42,0.0,,,False,False
+836404,p8x,2,Produits chimiques pour automate de biochimie BIOSYSTEM BA400,Fournitures,,707388.0,14000.0,,,False,False
+836404,p8x,3,Produits chimiques pour automate d’HEMATOLOGIE SYSMEX XN 1000 ; SYSMEX CS1600 ; HEMOSTASE TCOAG,Fournitures,,1757830.8,30000.0,,,False,False
+836404,p8x,4,Produits chimiques pour automate d’IMMUNOLOGIE ARCHITECT PLUS i1000SR ET DE GROUPAGE,Fournitures,,883347.36,15000.0,,,False,False
+836404,p8x,5,Produits chimiques de MICROBIOLOGIE,Fournitures,,1519250.98,30000.0,,,False,False
+836451,y5l,1,,Fournitures,,5040000.0,50000.0,,,False,False
+837794,q9t,1,,Services,,3751000.0,70000.0,,,False,False
+838165,g8e,1,,Travaux,,7992424.08,114000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 3,,False,False
+839295,g8e,1,,Services,,8448000.0,100000.0,,,False,False
+839847,g3h,1,,Travaux,,1790722.0,35000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 4,,False,False
+839980,j0w,1,,Travaux,,253704.0,5000.0,,,False,True
+840682,m8x,1,,Services,,5773650.79,0.0,,,False,True
+840735,m8x,1,,Services,,2539682.54,0.0,,,False,True
+840801,m8x,1,,Services,,1067820.63,0.0,,,False,True
+842181,q9t,1,,Fournitures,,486240.0,9000.0,,,False,False
+842569,q9t,1,,Services,,390000.0,7000.0,,,False,False
+842596,l1f,1,,Travaux,,7591206.86,150000.0,Equipement / V- Amenagement d'espaces verts et jardins / V.1- aménagement d'espaces verts et jardins / Classe 1,,False,False
+843763,h5j,1,Achat de médicaments,Fournitures,,800000.7,15000.0,,,False,False
+843763,h5j,10,Achat de médicaments,Fournitures,,700000.45,13000.0,,,False,False
+843763,h5j,2,Achat de médicaments,Fournitures,,500000.25,8000.0,,,False,False
+843763,h5j,3,Achat de médicaments,Fournitures,,600000.49,10000.0,,,False,False
+843763,h5j,4,Achat de médicaments,Fournitures,,800000.7,15000.0,,,False,False
+843763,h5j,5,Achat de médicaments,Fournitures,,600000.49,10000.0,,,False,False
+843763,h5j,6,Achat de médicaments,Fournitures,,800000.7,15000.0,,,False,False
+843763,h5j,7,Achat de médicaments,Fournitures,,400000.54,4000.0,,,False,False
+843763,h5j,8,Achat de médicaments,Fournitures,,600000.49,10000.0,,,False,False
+843763,h5j,9,Achat de médicaments,Fournitures,,600000.49,10000.0,,,False,False
+844295,q9t,1,,Fournitures,,1650000.0,20000.0,,,False,False
+844332,p8x,1,,Fournitures,,2217080.0,40000.0,,,False,False
+844694,o8p,1,,Travaux,,59198898.0,1100000.0,"Equipement / J- Electricite / J.2- Travaux d'installation des équipements électriques et d'automatisme / Classe 1 Equipement / J- Electricite / J.6- Réalisation de réseau électrique MT et transformation MT-BT et réseaux basse tension / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.6- Pré-câblage et réseau informatique / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.7- Détection et protection incendie et extinction automatique / Classe 1",,False,False
+844798,k2q,1,"9 Avril 1947, Abdelmoumen, Ahmed El Hansali, Al Wahda, Complexe Allal El Fassi, Aoulouz, Asfalou, Bab Louta, Barrage sur Oued Za, Hassan II, Ibn Battouta, Idriss 1er, Mohamed Ben Abdelkrim Khattabi, Mokhtar Soussi, My Hassan 1er, Oued El Makhazine, Prince Moulay Abdallah, Sidi Chahed, Smir, Sidi Mohamed Ben Abdellah, Nakhla, Tanger-Méditerranée, Chefchaouen, Tamalout, Charif Al Idrissi, Dar Khrofa, M’dez, Béni Azimane, Targa ou Madi et Kheng Grou.",Services,,16200000.0,50000.0,,"D5. Ouvrages d'art D6. Barrages D20- Géologie, géophysique, hydrologie, hydrogéologie",False,False
+844798,k2q,2,"Ait Messaoud, Al Massira, Bouhouda, Tamesna, Dkhila, Garde Loukkos, Garde Sebou, Hassan Addakhil, S.M.Ben Slimane Jazouli, Mechra Homadi, Mohamed V, My Hassan Bel Mehdi, Sahla, El Himer, Mazer, Yaacoub El Mansour, Tamedroust-Koudiat El garn, Abou Al Abbass Sabti, Moulay Abderrahmane, Moulay Ali Chrif, Ouljet Essoltane, Sidi Abdellah, Kadoussa, Agdez, Tiddas, Fask et Rhiss.",Services,,14820000.0,40000.0,,"D5. Ouvrages d'art D6. Barrages D20- Géologie, géophysique, hydrologie, hydrogéologie",False,False
+844798,k2q,3,"Ahl Sous, El Kansra, Enjil, Imi El Kheng, Joumouaa, Lalla Takerkoust, Mansour Eddahbi, My Youssef, Oued El Maleh, Sidi Driss, Timi N’outine, Youssef Ben Tachfine, Ait Ziat, Kharroub, Sidi Abbou, Boulaouane, Timekit, Complexe Sfeissef-Rkiza, Kodiat borna, Oued Lakhdar, Toudgha, Taghzirt et Sakia El Hamra",Services,,12840000.0,30000.0,,"D5. Ouvrages d'art D6. Barrages D20- Géologie, géophysique, hydrologie, hydrogéologie",False,False
+845057,g8e,1,,Fournitures,,1485000.0,25000.0,,,False,False
+845631,o8p,1,,Travaux,,23424966.0,350000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 2,,False,False
+845889,d4q,1,,Travaux,,469252800.0,2500000.0,,,True,False
+846471,g8e,1,,Fournitures,,816000.0,9000.0,,,False,True
+846760,g3h,1,,Travaux,,2614061.22,52000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 4,,False,False
+846960,w9x,1,,Fournitures,,33600000.0,670000.0,,,False,False
+846969,o8p,1,,Travaux,,3974550.6,79000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe 3 Equipement / B- Travaux routiers et voirie urbaine / B.3- Ouvrages d'assainissement routiers et traitement de l'environnement / Classe 3 Equipement / B- Travaux routiers et voirie urbaine / B.5- Assises non traitées et enduits superficiels / Classe 3,,False,False
+848118,k2q,1,,Services,,7737000.0,60000.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES GRANDS BARRAGES / Classe 1,,False,False
+848136,g8e,1,,Fournitures,,577800.0,10000.0,,,False,False
+848296,q9t,1,,Services,,2906855.03,50000.0,,,False,False
+848544,g8e,1,,Fournitures,,1548024.0,30000.0,,,False,False
+848934,w9x,1,,Fournitures,,1260000.0,25000.0,,,False,False
+848988,g3h,1,,Services,,1872000.0,0.0,,,False,False
+849359,h5j,1,,Fournitures,,18000000.0,360000.0,,,False,False
+849544,q9t,1,,Fournitures,,3033932.0,60000.0,,,False,False
+849857,m8x,1,,Services,,13500000.0,0.0,,,False,False
+850181,m8x,1,,Services,,0.0,0.0,,,False,False
+850459,m8x,1,,Services,,450000.0,5000.0,,"D17- Voirie, réseaux d'assainissement et eau potable D18- Réseaux d'électricité basse et moyenne tension, réseaux téléphoniques et éclairage public D19- Etudes d'impact sur l'environnement",False,False
+850460,m8x,1,,Services,,901200.0,15000.0,,"D17- Voirie, réseaux d'assainissement et eau potable D18- Réseaux d'électricité basse et moyenne tension, réseaux téléphoniques et éclairage public D19- Etudes d'impact sur l'environnement",False,False
+850465,m8x,1,,Services,,1092000.0,10000.0,,"D17- Voirie, réseaux d'assainissement et eau potable D18- Réseaux d'électricité basse et moyenne tension, réseaux téléphoniques et éclairage public",False,False
+850568,q0x,1,,Services,,300000.0,6000.0,,"D4. Routes, Autoroutes, Transport D14- Calcul de structures pour bâtiments à tous usages D17- Voirie, réseaux d'assainissement et eau potable D18- Réseaux d'électricité basse et moyenne tension, réseaux téléphoniques et éclairage public",False,False
+850579,g8e,1,,Travaux,,1212216.0,20000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 4,,False,False
+850664,o8p,1,,Fournitures,,72000000.0,1080000.0,,,True,False
+850680,o8p,1,,Fournitures,,115200000.0,1728000.0,,,True,False
+850748,o8p,1,,Fournitures,,52800000.0,792000.0,,,True,False
+850802,g8e,1,,Travaux,,1198752.0,20000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 4,,False,False
+850817,h5j,1,Tenue d’Hiver,Fournitures,,14586000.0,290000.0,,,False,False
+850817,h5j,2,Tenue d’Eté,Fournitures,,6243000.0,124000.0,,,False,False
+850874,m8x,1,,Services,,19400000.0,0.0,,,False,False
+850877,l1f,1,,Services,,0.0,2870000.0,,,False,False
+850966,k2q,1,,Services,,199200.0,3000.0,,,False,True
+851003,g8e,1,,Services,,2799900.0,50000.0,,,False,False
+851037,f9f,1,,Services,,300000.0,6000.0,,D13. Etudes générales D19- Etudes d'impact sur l'environnement,False,False
+851088,g8e,1,,Fournitures,,2034600.0,25000.0,,,False,False
+851257,k2q,1,,Travaux,,4687560.0,90000.0,Equipement / H- Sondages geotechnique et forages hydrogeologique / H.11- Sondages géotechniques peu profonds (<150m) / Classe 1,,False,False
+851359,o8p,1,,Services,,90600.0,1800.0,,,False,False
+851363,o8p,1,,Services,,65364.0,1300.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DE TERRASSEMENT ET CHAUSSEES AVEC COUCHE DE ROULEMENT EN REVETEMENT SUPERFICIEL / Classe 4 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES OUVRAGES D'ART COURANTS / Classe 4,,False,False
+851367,o8p,1,,Services,,140172.0,2800.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DE TERRASSEMENT ET CHAUSSEES AVEC COUCHE DE ROULEMENT EN REVETEMENT SUPERFICIEL / Classe 3 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES OUVRAGES D'ART COURANTS / Classe 4,,False,False
+851373,o8p,1,,Services,,233028.0,4600.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DE TERRASSEMENT ET CHAUSSEES AVEC COUCHE DE ROULEMENT EN REVETEMENT SUPERFICIEL / Classe 3 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES CHAUSSEES BITUMINEUSES TYPE-2 A BASE DE MELANGE HYDROCARBONE NON COURANT Y COMPRIS LE CONTROLE DES ETUDES DE FORMULATIONS DE BITUME / Classe 3 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES OUVRAGES D'ART COURANTS / Classe 3,,False,False
+851376,o8p,1,,Services,,288000.0,5000.0,,,False,False
+851380,o8p,1,,Services,,230580.0,4600.0,,"D4. Routes, Autoroutes, Transport",False,False
+851382,o8p,1,,Services,,182400.0,3600.0,,"D4. Routes, Autoroutes, Transport",False,False
+851386,o8p,1,,Services,,234000.0,4600.0,,D5. Ouvrages d'art,False,False
+851454,d4q,1,Maintenance et remise en état des transformateurs aux postes de la Division Exploitation Transport Casablanca,Travaux,,10949000.0,200000.0,,,False,False
+851454,d4q,2,Maintenance et remise en état des transformateurs aux postes de la Division Exploitation Transport El Jadida,Travaux,,10198000.0,200000.0,,,False,False
+851515,q9t,1,,Services,,2407122.43,47000.0,,,False,False
+851665,x6c,1,,Services,,0.0,48500.0,,,False,False
+851738,k2q,1,,Services,,426000.0,7000.0,Laboratoires / ETUDES GEOTECHNIQUES / ESSAIS DE RECONNAISSANCES GEOPHYSIQUES APPLIQUES DANS LE DOMAINE DE BTP / Classe 1,,False,False
+851829,o8p,1,,Travaux,,35277649.2,590000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe S Equipement / B- Travaux routiers et voirie urbaine / B.3- Ouvrages d'assainissement routiers et traitement de l'environnement / Classe S Equipement / B- Travaux routiers et voirie urbaine / B.5- Assises non traitées et enduits superficiels / Classe S Equipement / B- Travaux routiers et voirie urbaine / B.6- Assises traitées et enrobés à chaud / Classe S,,False,False
+852592,j0w,1,,Services,,8010600.0,100000.0,,,False,False
+852844,x6c,1,Fournitures de Bureau,Fournitures,,709610.0,14000.0,,,False,True
+852844,x6c,2,Consommables Informatiques,Fournitures,,1555524.0,31000.0,,,False,True
+852971,g3h,1,Lot N°1 - Postes Sources Oulad Haddou et Mohammedia,Fournitures,"AOO 372-2024 E/F - Fourniture, Installation et Mise en Service d’un système de détection et d’extinction automatique d’incendie à gaz aux sites de la SRM-CS Lot N°1 - Postes Sources Oulad Haddou et Mohammedia",4431970.13,48000.0,,,True,False
+852971,g3h,2,Lot N°2 - Station EAUCEAN,Fournitures,"AOO 372-2024 E/F - Fourniture, Installation et Mise en Service d’un système de détection et d’extinction automatique d’incendie à gaz aux sites de la SRM-CS Lot N°2 - Station EAUCEAN",763426.2,8000.0,,,True,False
+852971,g3h,3,"Lot N°3 - Stations : Step Mediouna, El Hank, Cos Zenata, Yaacoub El Mensour et KM8",Fournitures,"AOO 372-2024 E/F - Fourniture, Installation et Mise en Service d’un système de détection et d’extinction automatique d’incendie à gaz aux sites de la SRM-CS Lot N°3 - Stations : Step Mediouna, El Hank, Cos Zenata, Yaacoub El Mensour et KM8",567600.0,6000.0,,,True,False
+853140,d4q,1,,Fournitures,,1440000.0,14400.0,,,False,False
+853153,g3h,1,Fourniture et Installation d'un système de protection contre l’incendie pour les deux transformateurs de puissance au PS 60/20 kV MOHAMMEDIA,Fournitures,,4063910.38,52000.0,,,True,False
+853153,g3h,2,Fourniture et Installation d'un système de protection contre l’incendie pour les trois transformateurs de puissance au PS 60/20 kV CAMIRAN,Fournitures,,6084615.6,80000.0,,,True,False
+853153,g3h,3,Fourniture et Installation d'un système de protection contre l’incendie pour les trois transformateurs de puissance au PS 60/20 kV CHAVIGNE,Fournitures,,6084615.6,80000.0,,,True,False
+853227,o8p,1,,Travaux,,104853138.0,1800000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe S Equipement / B- Travaux routiers et voirie urbaine / B.3- Ouvrages d'assainissement routiers et traitement de l'environnement / Classe S Equipement / B- Travaux routiers et voirie urbaine / B.5- Assises non traitées et enduits superficiels / Classe S Equipement / B- Travaux routiers et voirie urbaine / B.6- Assises traitées et enrobés à chaud / Classe S,,False,False
+853245,o8p,1,,Services,,2002932.0,39000.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DE TERRASSEMENT ET CHAUSSEES AVEC COUCHE DE ROULEMENT EN REVETEMENT SUPERFICIEL / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES CHAUSSEES BITUMINEUSES TYPE-1 A BASE DE MELANGE HYDROCARBONE COURANT / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES CHAUSSEES BITUMINEUSES TYPE-2 A BASE DE MELANGE HYDROCARBONE NON COURANT Y COMPRIS LE CONTROLE DES ETUDES DE FORMULATIONS DE BITUME / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES OUVRAGES D'ART COURANTS / Classe 1,,False,False
+853712,q1s,1,,Services,,1700160.0,34000.0,,,False,False
+853729,q9t,1,,Fournitures,,2940000.0,50000.0,,,False,False
+853754,g3h,1,,Fournitures,,499860.0,9000.0,,,False,True
+854060,f9f,1,,Fournitures,,1147200.0,20000.0,,,False,False
+854173,q9t,1,Equipements de prothèse conjointe Céramo-Céramique,Fournitures,,1338800.04,20000.0,,,False,False
+854173,q9t,2,"Instrumentation, fongible et Consommables dentaires pour prothèse adjointe.",Fournitures,,194351.2,3000.0,,,False,False
+854173,q9t,3,Consommables pour prothèse conjointe céramo-céramique,Fournitures,,282024.48,5000.0,,,False,False
+854173,q9t,4,"Instrumentation, fongibles et consommables dentaires de prothèse conjointe.",Fournitures,,371570.45,7000.0,,,False,False
+854235,m8x,1,,Travaux,,3990270.0,60000.0,Equipement / C- Eau potable - Assainissement - Conduites / C.3- Travaux courants de réseaux d’assainissement et ouvrages annexes / Classe 3,,False,True
+854253,o8p,1,,Fournitures,,10764000.0,150000.0,,,False,False
+854298,q0x,1,,Services,,13750.0,3000.0,,,False,False
+854321,h5r,1,,Services,,10000000.0,0.0,,,False,False
+854461,h5r,1,,Services,,71643.0,1430.0,,,False,False
+854472,h5r,1,,Fournitures,,1336858.8,26737.0,,,False,False
+854609,m8x,1,,Travaux,,2165706.0,43000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe 3 Equipement / B- Travaux routiers et voirie urbaine / B.3- Ouvrages d'assainissement routiers et traitement de l'environnement / Classe 3 Equipement / B- Travaux routiers et voirie urbaine / B.5- Assises non traitées et enduits superficiels / Classe 3,,False,True
+854648,h5j,1,LOTS 1,Fournitures,,1406400.0,25000.0,,,False,False
+854648,h5j,2,LOTS2,Fournitures,,1516800.0,28000.0,,,False,False
+854664,h5j,1,,Services,,11833250.0,208000.0,,,False,False
+854717,d4q,1,Travaux d’aménagement de la ligne 60 kV n°505 <<SKHIRATE-FOLT>>.,Travaux,Travaux d’aménagement de la ligne 60 kV n°505 <<SKHIRATE-FOLT>>.,8814927.6,100000.0,,,False,False
+854717,d4q,2,Renouvellement de la ligne 60 kV n°95 <<LOUKKOS-BEGGARA>>.,Travaux,Renouvellement de la ligne 60 kV n°95 <<LOUKKOS-BEGGARA>>.,10363477.2,200000.0,,,False,False
+854825,f8y,1,,Services,,217200.0,4000.0,,"D17- Voirie, réseaux d'assainissement et eau potable",False,False
+854856,d4q,1,,Fournitures,,3591100.0,50000.0,,,False,False
+855275,o8p,1,,Fournitures,,37752000.0,30000.0,,,False,False
+855276,o8p,1,,Fournitures,,66880000.0,30000.0,,,False,False
+855278,o8p,1,,Fournitures,,3170000.0,30000.0,,,False,False
+855482,p8x,1,,Fournitures,,1435814.16,25000.0,,,False,False
+855483,d4q,1,,Travaux,,20000000.0,200000.0,,,False,False
+855546,h5j,1,,Travaux,,5994625.2,100000.0,Equipement / L- Menuiserie - Charpente / L.4- Menuiserie aluminium / Classe 3 Equipement / L- Menuiserie - Charpente / L.5- Menuiserie métallique / Classe 3 Equipement / Q- Peinture / Q.1- Peinture générale de bâtiment / Classe 3,,False,False
+855558,g8e,1,l’assistance technique pour le développement informatique des corrections et des évolutions des logiciels d’oracle utilisés dans le cadre du système d’information du plan comptable de l’Etat concernant le domaine « Développement de nouvelles fonctionnalités du système »,Services,,1206000.0,20000.0,,,False,False
+855558,g8e,2,l’assistance technique pour le développement informatique des corrections et des évolutions des logiciels d’oracle utilisés dans le cadre du système d’information du plan comptable de l’Etat concernant le domaine « Résolution des incidents techniques et amélioration de la performance du système ».,Services,,1206000.0,21000.0,,,False,False
+855648,d4q,1,,Fournitures,,630000.0,6300.0,,,False,False
+855676,q9t,1,,Services,,5174880.0,0.0,,,False,False
+855834,g3h,1,,Travaux,,469538.4,9000.0,,,False,False
+855842,f9f,1,,Travaux,,38502378.0,600000.0,Equipement / D- Construction d'ouvrages d'art / D.1- Ouvrages d'art courants en béton armé / Classe 2 Equipement / O- Revetements / O.1- Travaux de revêtements courants / Classe 1 Equipement / J- Electricite / J.4- Travaux d'éclairage public / Classe 3,,False,True
+855970,g8e,1,,Travaux,,2736000.0,43000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 4,,False,False
+856069,d4q,1,,Fournitures,,660000.0,6600.0,,,False,False
+856410,d4q,1,,Travaux,,2400000.0,24000.0,,,False,False
+857054,s3d,1,,Fournitures,,14609076.0,200000.0,,,False,False
+857075,i1t,1,,Services,,600000.0,12000.0,,,False,False
+857078,q1s,1,,Travaux,,1653670.2,30000.0,Agriculture / Aménagement de pistes agricoles et rurales / 7.1.Aménagement de pistes agricoles et rurales / Classe 4,,False,False
+857130,g7n,1,,Services,,17031081.6,300000.0,,,False,True
+857207,o8p,1,,Fournitures,,108852480.0,30000.0,,,False,False
+857217,o8p,1,,Fournitures,,58924800.0,30000.0,,,False,False
+857221,o8p,1,,Fournitures,,16513200.0,30000.0,,,False,False
+857298,z6n,1,,Fournitures,,3144664.0,60000.0,,,False,False
+857300,o8p,1,,Fournitures,,172101600.0,30000.0,,,False,False
+857302,g3h,1,,Fournitures,,230000000.0,2300000.0,,,False,False
+857886,o8p,1,,Fournitures,,109190400.0,30000.0,,,False,False
+857907,q1s,1,,Services,,0.0,0.0,,,False,False
+857945,a1z,1,LOT 1 : BOULEVARD ABDELLAH SANHAJI (ENTRE BD AL FIDA ET AV 6 NOVEMBRE) BOULEVARD OUED ZEM (ENTRE AV 6 NOVEMBRE RUE LAGOUIRA Y COMPRIS LA RUE ENTRE BD OUED ZEM ET RUE 68 (PROCHE DE L’AUTOROUTE) RUE WALID SGHIR SUR LE LINÉAIRE TOTAL,Travaux,,78823296.0,1180000.0,Equipement / B- Travaux routiers et voirie urbaine / B.4- Travaux de terrassements et ouvrages d'assainissement sur la voirie urbaine / Classe S Equipement / B- Travaux routiers et voirie urbaine / B.6- Assises traitées et enrobés à chaud / Classe S Equipement / J- Electricite / J.4- Travaux d'éclairage public / Classe 2,,False,False
+857945,a1z,2,LOT 2 : BOULEVARD PANORAMIQUE ENTRE BD DE LA MECQUE ET BD MOHAMED VI,Travaux,,66823842.0,1000000.0,Equipement / B- Travaux routiers et voirie urbaine / B.4- Travaux de terrassements et ouvrages d'assainissement sur la voirie urbaine / Classe S Equipement / B- Travaux routiers et voirie urbaine / B.6- Assises traitées et enrobés à chaud / Classe S Equipement / J- Electricite / J.4- Travaux d'éclairage public / Classe 1,,False,False
+857945,a1z,3,LOT 3: VOIES AUTOUR DE LA CITE HISTORIQUE D’AIN CHOCK AV DAOURA ENTRE AV MOHAMMED 6 ET BD ZAGORA BD ZAGORA ENTRE AV DAOURA ET BD TEMARA BD TEMARA ENTRE BD FÈS ET BD AL HAOUZ BD AL HAOUZ ENTRE BD FÈS ET BD TEMARA,Travaux,,29826006.0,445000.0,Equipement / B- Travaux routiers et voirie urbaine / B.4- Travaux de terrassements et ouvrages d'assainissement sur la voirie urbaine / Classe 1 Equipement / B- Travaux routiers et voirie urbaine / B.6- Assises traitées et enrobés à chaud / Classe 1 Equipement / J- Electricite / J.4- Travaux d'éclairage public / Classe 2,,False,False
+857945,a1z,4,LOT 4 : BOULEVARD LALLA ASMAE DU BD OKBA BNOU NAFII AU PK+1100,Travaux,,40702554.0,610000.0,Equipement / B- Travaux routiers et voirie urbaine / B.4- Travaux de terrassements et ouvrages d'assainissement sur la voirie urbaine / Classe S Equipement / B- Travaux routiers et voirie urbaine / B.6- Assises traitées et enrobés à chaud / Classe S Equipement / J- Electricite / J.4- Travaux d'éclairage public / Classe 2,,False,False
+857966,p8x,1,,Services,,10378961.65,250000.0,,,False,False
+858017,g3h,1,,Fournitures,,2398140.0,35972.0,,,False,False
+858027,d4q,1,,Travaux,,2186400.0,21900.0,,,False,True
+858130,d4q,1,,Travaux,,1200000.0,12000.0,,,False,False
+858167,h5r,1,,Travaux,,2736936.0,50000.0,,,False,True
+858174,q9t,1,Produits biologiques et chimiques pour l’automate Immunologie AIA 360.,Fournitures,,345105.6,6000.0,,,False,False
+858174,q9t,2,Achat de produits biologiques et chimiques pour l'automate Biochimie et automate Hématologie Hémostase,Fournitures,,1700349.6,34000.0,,,False,False
+858182,o8p,1,,Fournitures,,8537232.0,30000.0,,,False,False
+858183,o8p,1,,Fournitures,,125400.0,30000.0,,,False,False
+858184,o8p,1,,Fournitures,,24240270.0,30000.0,,,False,False
+858185,o8p,1,,Fournitures,,10396505.0,30000.0,,,False,False
+858186,o8p,1,,Fournitures,,3175802.0,30000.0,,,False,False
+858189,h5r,1,,Services,,54000.0,1000.0,,,False,True
+858198,f9f,1,,Travaux,,2972366.88,50000.0,Equipement / A- Construction / A.6- Travaux de construction des réservoirs courants en béton armé de capacité inférieure ou égale à 1000 m3 / Classe 5 Equipement / C- Eau potable - Assainissement - Conduites / C.1- Réseaux de conduites sous pression de petit diamètre inférieur ou égal à 400 mm et ouvrages annexes / Classe 4,,False,False
+858294,j0w,1,,Travaux,,750396.0,12000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 5,,False,False
+858372,g3h,1,,Services,,23805662.4,476000.0,,,False,False
+858373,q9t,1,,Fournitures,,511291.2,10000.0,,,False,False
+858564,d4q,1,,Travaux,,136800.0,0.0,,,False,True
+858572,g3h,1,,Travaux,,160298100.0,1610000.0,,,False,True
+858589,f9f,1,,Fournitures,,10200.0,500.0,,,False,False
+858604,q0x,1,,Fournitures,,900000.0,18000.0,,,False,True
+858609,d4q,1,Peinture des lignes du réseau région Agadir,Travaux,Les pièces justificatives à fournir sont celles prévues par l'article 10 du règlement de la consultation.,8072400.0,100000.0,,,False,False
+858609,d4q,2,Peinture des lignes du réseau région Dakhla,Travaux,Les pièces justificatives à fournir sont celles prévues par l'article 10 du règlement de la consultation.,17672300.0,200000.0,,,False,False
+858609,d4q,3,Peinture des lignes du réseau région Guelmim,Travaux,Les pièces justificatives à fournir sont celles prévues par l'article 10 du règlement de la consultation.,14527600.0,200000.0,,,False,False
+858609,d4q,4,Peinture des lignes du réseau région Tantan,Travaux,Les pièces justificatives à fournir sont celles prévues par l'article 10 du règlement de la consultation.,18561300.0,200000.0,,,False,False
+858609,d4q,5,Peinture des lignes du réseau région Tarfaya,Travaux,Les pièces justificatives à fournir sont celles prévues par l'article 10 du règlement de la consultation.,9370800.0,100000.0,,,False,False
+858609,d4q,6,Peinture des lignes du réseau région Laâyoune,Travaux,Les pièces justificatives à fournir sont celles prévues par l'article 10 du règlement de la consultation.,17584400.0,200000.0,,,False,False
+858632,g3h,1,,Travaux,,49743564.0,994000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 1 Equipement / A- Construction / A.3- Travaux de complexité moyenne en béton armé pour bâtiment / Classe 1 Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 1,,False,False
+858642,i1t,1,,Services,,163200.0,2500.0,,D5. Ouvrages d'art,False,False
+858648,f8y,1,,Travaux,,952740.0,17000.0,,,False,False
+858650,h5r,1,,Services,,67000.0,1330.0,,"D5. Ouvrages d'art D13. Etudes générales D14- Calcul de structures pour bâtiments à tous usages D17- Voirie, réseaux d'assainissement et eau potable",False,False
+858689,x6c,1,,Services,,1920000.0,28800.0,,,False,False
+858714,m1i,1,,Fournitures,,10000.0,0.0,,,False,False
+858878,o8p,1,,Fournitures,,75240000.0,30000.0,,,False,False
+858887,o8p,1,,Fournitures,,90604800.0,30000.0,,,False,False
+858895,o8p,1,,Fournitures,,353406240.0,30000.0,,,False,False
+858905,o8p,1,,Fournitures,,22651200.0,30000.0,,,False,False
+858906,o8p,1,,Fournitures,,62832000.0,30000.0,,,False,False
+858914,o8p,1,,Fournitures,,28710000.0,30000.0,,,False,False
+858944,i1t,1,,Travaux,,9612120.0,190000.0,Equipement / J- Electricite / J.4- Travaux d'éclairage public / Classe 1,,False,False
+858952,o8p,1,,Travaux,,24204210.0,363063.0,,,False,False
+858960,q9t,1,,Travaux,,4078868.36,80000.0,,,False,False
+858968,o8p,1,,Travaux,,51882144.0,778232.0,,,False,False
+858972,o8p,1,,Fournitures,,4719000.0,30000.0,,,False,False
+858977,j0w,1,,Travaux,,501984.0,8000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 5,,False,False
+859034,o8p,1,,Fournitures,,3960000.0,30000.0,,,False,False
+859058,d4q,1,ACQUISITION DES PIÈCES DE RECHANGE DES POMPES pour la Centrale diesel LAAYOUNE,Fournitures,,489400.0,0.0,,,False,False
+859058,d4q,2,ACQUISITION DES PIÈCES DE RECHANGE DES POMPES pour la Centrale diesel DAKHLA,Fournitures,,183000.0,0.0,,,False,False
+859059,o8p,1,,Services,,509124.0,8000.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DE TERRASSEMENT ET CHAUSSEES AVEC COUCHE DE ROULEMENT EN REVETEMENT SUPERFICIEL / Classe 2 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES CHAUSSEES BITUMINEUSES TYPE-1 A BASE DE MELANGE HYDROCARBONE COURANT / Classe 2,,False,False
+859069,g3h,1,,Fournitures,,2864130.0,30000.0,,,False,True
+859074,d4q,1,,Travaux,,962400.0,0.0,,,False,False
+859083,d4q,1,,Fournitures,,3917900.0,50000.0,,,False,False
+859092,i1t,1,Travaux de maintenance et d’entretien courant des espaces verts de la commune de Kenitra (Lot 1 ).,Travaux,les travaux de maintenance et d’entretien courant des espaces verts de la commune de Kenitra exécuté aux sites cités ci-dessous (article 4 – 1 du CPS),3881520.0,60000.0,Equipement / V- Amenagement d'espaces verts et jardins / V.1- aménagement d'espaces verts et jardins / Classe 1,,False,False
+859092,i1t,2,Travaux de maintenance et d’entretien courant des espaces verts de la commune de Kenitra (Lot 2).,Travaux,les travaux de maintenance et d’entretien courant des espaces verts de la commune de Kenitra exécuté aux sites cités ci-dessous (article 4 – 2 du CPS),3881520.0,60000.0,Equipement / V- Amenagement d'espaces verts et jardins / V.1- aménagement d'espaces verts et jardins / Classe 1,,False,False
+859273,j0w,1,,Fournitures,,1068000.0,21000.0,,,False,False
+859429,g3h,1,"Lot N°1 - Fourniture des bornes, barrettes et accessoires pour éclairage public",Fournitures,"Marché Cadre : Fourniture d’accessoires électriques pour réseaux aériens, souterrains et éclairage public Lot N°1 - Fourniture des bornes, barrettes et accessoires pour éclairage public",125714.04,1000.0,,,True,False
+859429,g3h,2,Lot N°2 - Fourniture des accessoires de connexion pour les réseaux aériens et souterrains HTA et BT,Fournitures,"Marché Cadre - Fourniture d’accessoires électriques pour réseaux aériens, souterrains et éclairage public Lot N°2 - Fourniture des accessoires de connexion pour les réseaux aériens et souterrains HTA et BT",373230.76,4000.0,,,True,False
+859455,g3h,1,,Services,,3558000.0,70000.0,,,False,False
+859894,q0x,1,,Fournitures,,1533360.0,30000.0,,,False,False
+859999,g3h,1,,Fournitures,,2875392.0,30000.0,,,False,True
+860000,g8e,1,,Services,,504000.0,10000.0,,,False,True
+860065,o8p,1,,Services,,311520.0,5000.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DE LA QUALITE DE SIGNALISATION HORIZONTALE ROUTIERE / Classe 2 Laboratoires / CONTROLE DE QUALITE / CONTROLE DE LA QUALITE DE SIGNALISATION VERTICALE ROUTIERE / Classe 2,,False,False
+860091,a1t,1,,Travaux,,1417675.02,15000.0,,,False,True
+860125,o8p,1,,Fournitures,,4209600.0,30000.0,,,True,False
+860144,g3h,1,,Travaux,,29232139.2,550000.0,"Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.1- Installations téléphoniques / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.4- Gestion technique centralisée / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.5- Contrôle d'accès / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.6- Pré-câblage et réseau informatique / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.7- Détection et protection incendie et extinction automatique / Classe 1",,False,False
+860278,o8p,1,,Fournitures,,3100800.0,30000.0,,,True,False
+860315,f8y,1,,Services,,665000.0,10000.0,,,False,False
+860486,o8p,1,,Fournitures,,0.0,100000.0,,,False,False
+860537,g8e,1,,Fournitures,,3286440.0,45000.0,Equipement / X- Signalisation et equipements de securite / X.2- Travaux de signalisation verticale et équipements de sécurité / Classe 1,,False,False
+860567,l1f,1,,Services,,475000.0,15000.0,,,False,False
+860575,g3h,1,,Services,,2765034.0,28000.0,,,False,False
+860719,e5w,1,,Travaux,,8331818.22,160000.0,,,True,False
+860781,g3h,1,,Travaux,,1329577.2,26500.0,,,False,False
+860786,h5r,1,,Services,,6400000.0,0.0,,,False,False
+860811,d4q,1,,Travaux,,3529149.92,50000.0,,"D18- Réseaux d'électricité basse et moyenne tension, réseaux téléphoniques et éclairage public",False,False
+860813,d4q,1,,Fournitures,,5117184.0,100000.0,,,False,False
+860867,d4q,1,,Travaux,,1801200.0,18000.0,,,False,False
+860916,p1v,1,,Travaux,,10966423.5,180000.0,,,False,False
+860932,d4q,1,,Services,,216816.0,0.0,,,False,True
+860945,g3h,1,,Travaux,,1497090.0,22000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 4,,False,False
+860977,d4q,1,,Travaux,,838572.0,0.0,,,False,True
+860988,o8p,1,Lot 1 : Aéroport FES SAIS,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 1 : Aéroport FES SAIS,7368960.0,110000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 3,,False,False
+860988,o8p,10,Lot 10 : Aéroport de BOUARFA,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 10 : Aéroport de BOUARFA,6469560.0,97000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe 3,,False,False
+860988,o8p,11,Lot 11 : Aéroport TANTAN/PLAGE BLANCHE,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 11 : Aéroport TANTAN/PLAGE BLANCHE,15953700.0,239000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 2,,False,False
+860988,o8p,12,Lot 12 : Aéroport de GUELMIME,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 12 : Aéroport de GUELMIME,8554950.0,128000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 3,,False,False
+860988,o8p,13,Lot 13 : Aéroport MARRAKECH MENARA,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 13 : Aéroport MARRAKECH MENARA,2744850.0,40000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe 4,,False,False
+860988,o8p,14,Lot 14 : Aéroport AGADIR AL MASSIRA,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 14 : Aéroport AGADIR AL MASSIRA,8243400.0,123000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe 3,,False,False
+860988,o8p,2,Lot 2 : Aéroport NADOR EL AROUI,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 2 : Aéroport NADOR EL AROUI,20922300.0,310000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 2,,False,False
+860988,o8p,3,Lot 3 : Aéroport LAAYOUNE HASSAN 1ER,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports Lot 3 : Aéroport LAAYOUNE HASSAN 1ER,10560900.0,150000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 3,,False,False
+860988,o8p,4,Lot 4 : Aéroport de DAKHLA,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports Lot 4 : Aéroport de DAKHLA,6611100.0,99000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 3,,False,False
+860988,o8p,5,Lot 5 : Aéroport de BENSLIMANE,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 5 : Aéroport de BENSLIMANE,6887760.0,100000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe 3,,False,False
+860988,o8p,6,Lot 6 : Aéroport CASABLANCA TIT MELLIL,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 6 : Aéroport CASABLANCA TIT MELLIL,4342140.0,65000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe 3,,False,False
+860988,o8p,7,Lot 7 : Aéroport d’OUARZAZATE,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 7 : Aéroport d’OUARZAZATE,2144736.0,30000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 4,,False,False
+860988,o8p,8,Lot 8 : Aéroport de ZAGORA,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 8 : Aéroport de ZAGORA,7803300.0,117000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe 3,,False,False
+860988,o8p,9,Lot 9 : Aéroport ESSAOUIRA MOGADOR,Travaux,Travaux de mise à niveau des murs de clôtures et chemins de rondes aux divers aéroports. Lot 9 : Aéroport ESSAOUIRA MOGADOR,7255500.0,108000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 3,,False,False
+860994,d4q,1,,Travaux,,3377901.89,50000.0,,,False,False
+861015,q1s,1,,Fournitures,,88300000.0,1600000.0,,,False,False
+861096,s5z,1,,Services,,8823785.47,150000.0,,,False,False
+861098,o8p,1,,Services,,171960.0,3000.0,Laboratoires / ETUDES GEOTECHNIQUES / ETUDES GEOTECHNIQUES ROUTIERES COURANTES / Classe 2 Laboratoires / ETUDES GEOTECHNIQUES / ETUDES GEOTECHNIQUES DES OUVRAGES COURANTS / Classe 2,,False,False
+861114,d4q,1,,Services,,106440480.0,500000.0,,,False,False
+861162,d4q,1,,Travaux,,3999996.0,40000.0,,,False,False
+861166,o8p,1,,Services,,360000.0,7000.0,,,False,True
+861185,j8k,1,,Fournitures,,2088800.0,0.0,,,False,False
+861225,d4q,1,,Fournitures,,321600.0,3300.0,,,False,True
+861272,d4q,1,,Travaux,,720000.0,7200.0,,,False,True
+861371,a2a,1,,Travaux,,230000.0,6900.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 5,,False,False
+861381,o8p,1,,Travaux,,8231226.0,130000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 3,,False,False
+861383,o8p,1,,Travaux,,8814678.0,150000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 3,,False,False
+861392,o8p,1,,Travaux,,6157080.0,100000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 3,,False,False
+861404,o8p,1,,Travaux,,18640976.4,300000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 2,,False,False
+861435,k2q,1,,Travaux,,156000000.0,3000000.0,Equipement / F- Barrages et ouvrages hydrauliques y afferents / F.1- Travaux de fouilles à l'air libre / Classe S Equipement / F- Barrages et ouvrages hydrauliques y afferents / F.3- Préparation et mise en place des remblais / Classe S Equipement / F- Barrages et ouvrages hydrauliques y afferents / F.4- Fabrication et mise en place des bétons conventionnels / Classe S Equipement / F- Barrages et ouvrages hydrauliques y afferents / F.5- Béton compacté au rouleau (BCR) / Classe S,,False,False
+861456,g8e,1,,Travaux,,31978698.0,450000.0,Equipement / V- Amenagement d'espaces verts et jardins / V.1- aménagement d'espaces verts et jardins / Classe 1 Equipement / C- Eau potable - Assainissement - Conduites / C.1- Réseaux de conduites sous pression de petit diamètre inférieur ou égal à 400 mm et ouvrages annexes / Classe 3,,False,False
+861463,o8p,1,,Services,,543600.0,10000.0,,"D4. Routes, Autoroutes, Transport D5. Ouvrages d'art D20- Géologie, géophysique, hydrologie, hydrogéologie",False,False
+861476,a2a,1,,Services,,1850040.0,30000.0,,D6. Barrages,False,False
+861520,g8e,1,,Services,,6890340.0,100000.0,Laboratoires / ETUDES GEOTECHNIQUES / ETUDES GEOTECHNIQUES DES BATIMENTS NON COURANTS / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES GROS Å’UVRE DES BATIMENTS NON COURANTS / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES LOTS SECONDAIRES DES BATIMENTS / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES STRUCTURES METALLIQUES / Classe 1,,False,False
+861529,j8k,1,,Travaux,,61538551.2,600000.0,,,False,False
+861554,l1f,1,,Services,,0.0,750000.0,,,False,False
+861556,d0q,1,,Services,,160000.0,3000.0,,"D17- Voirie, réseaux d'assainissement et eau potable",False,True
+861600,i1t,1,,Services,,564000.0,11000.0,,"D3. Hydraulique urbaine D4. Routes, Autoroutes, Transport D5. Ouvrages d'art D17- Voirie, réseaux d'assainissement et eau potable",False,False
+861625,g3h,1,,Services,,480000.0,9000.0,,,False,False
+861626,g3h,1,,Travaux,,386400.0,7000.0,,,False,True
+861628,g3h,1,,Travaux,,120000.0,2200.0,,,False,True
+861632,d4q,1,,Travaux,,3305760.0,50000.0,,,False,False
+861635,d4q,1,,Travaux,,6973776.0,0.0,,,False,False
+861657,d4q,1,,Travaux,,450000.0,4500.0,,,False,True
+861694,d4q,1,,Services,,750000.0,7500.0,,,False,True
+861715,d4q,1,,Travaux,,960000.0,9600.0,,,False,True
+861750,d4q,1,,Services,,240000.0,3000.0,,,False,True
+861766,h5j,1,Réception des fonds de fouilles et essais de contrôle de la qualité des matériaux relatifs aux travaux de construction de la Prison Locale d’Al Hoceima,Services,,591360.0,0.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES GROS Å’UVRE DES BATIMENTS NON COURANTS / Classe 3,,False,False
+861766,h5j,2,Réception des fonds de fouilles et essais de contrôle de la qualité des matériaux relatifs aux travaux de construction de la Prison Locale de Chichaoua.,Services,,507300.0,0.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES GROS Å’UVRE DES BATIMENTS NON COURANTS / Classe 3,,False,False
+861772,d4q,1,,Fournitures,,780000.0,7800.0,,,False,False
+861801,e5w,1,,Travaux,,9913503.6,90000.0,Equipement / O- Revetements / O.1- Travaux de revêtements courants / Classe 2,,False,True
+861830,o8p,1,,Services,,219780.0,4000.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES GROS Å’UVRE DES BATIMENTS NON COURANTS / Classe 3 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES LOTS SECONDAIRES DES BATIMENTS / Classe 3,,False,False
+861835,d4q,1,Peinture des équipements de la centrale TAG Kenitra,Travaux,,2619900.0,50000.0,,,False,True
+861835,d4q,2,Peinture des équipements de la centrale TAG Tétouan,Travaux,,453900.0,0.0,,,False,True
+861844,o8p,1,,Services,,524160.0,8000.0,,,False,False
+861848,o8p,1,,Services,,524160.0,8000.0,,,False,False
+861859,q1s,1,,Fournitures,,489720.0,9500.0,,,False,True
+861860,o8p,1,,Services,,524160.0,8000.0,,,False,False
+861871,q9t,1,ACHAT ET MISE EN MARCHE DU MATERIEL MEDICO –TECHNIQUE,Fournitures,ACHAT ET MISE EN MARCHE DU MATERIEL MEDICO –TECHNIQUE,2519760.0,50000.0,,,False,False
+861871,q9t,2,ACHAT ET MISE EN MARCHE DU MATERIEL MEDICO –TECHNIQUE DE L’OPHTALMOLOGIE,Fournitures,ACHAT ET MISE EN MARCHE DU MATERIEL MEDICO –TECHNIQUE DE L’OPHTALMOLOGIE,618000.0,12000.0,,,False,False
+861871,q9t,3,ACHAT ET MISE EN MARCHE DU MATERIEL MEDICO –TECHNIQUE D’OTO- RHINO- LARYNGOLOGIE,Fournitures,ACHAT ET MISE EN MARCHE DU MATERIEL MEDICO –TECHNIQUE D’OTO- RHINO- LARYNGOLOGIE,1100400.0,22000.0,,,False,False
+861871,q9t,4,ACHAT DU MOBILIER DE BUREAU,Fournitures,ACHAT DU MOBILIER DE BUREAU,667968.0,13000.0,,,False,False
+861871,q9t,5,ACHAT ET MISE EN MARCHE DE MATERIEL INFORMATIQUE,Fournitures,ACHAT ET MISE EN MARCHE DE MATERIEL INFORMATIQUE,436800.0,8700.0,,,False,False
+861874,o8p,1,,Services,,524160.0,8000.0,,,False,False
+861881,q9t,1,,Services,,7030534.06,100000.0,,,False,False
+861888,o8p,1,,Services,,13058397.5,195000.0,,,False,False
+861894,d4q,1,,Travaux,,1999920.0,20000.0,Equipement / I- Equipements hydromecaniques - Traitement d'eau potable - Automatisme / I.6- Travaux d'installation des équipements hydro-électromécaniques pour stations de pompage / Classe 4,,False,True
+861901,h5r,1,,Services,,24250.0,20000.0,,,False,True
+861904,d4q,1,,Services,,4200000.0,42000.0,,,False,False
+861905,p1v,1,,Travaux,,1197319.2,20000.0,,,False,True
+861909,o4d,1,,Services,,1808394.59,27400.0,,,False,True
+861910,h5r,1,,Services,,3109.12,10000.0,,,False,True
+861912,d4q,1,,Travaux,,18960000.0,189600.0,Equipement / C- Eau potable - Assainissement - Conduites / C.1- Réseaux de conduites sous pression de petit diamètre inférieur ou égal à 400 mm et ouvrages annexes / Classe 2,,False,False
+861921,j0w,1,,Travaux,,376002.0,7000.0,Equipement / B- Travaux routiers et voirie urbaine / B.1- Travaux de terrassements routiers courants / Classe 5 Equipement / B- Travaux routiers et voirie urbaine / B.3- Ouvrages d'assainissement routiers et traitement de l'environnement / Classe 5 Equipement / B- Travaux routiers et voirie urbaine / B.4- Travaux de terrassements et ouvrages d'assainissement sur la voirie urbaine / Classe 5,,False,False
+861935,g3h,1,,Travaux,,1379962.08,20000.0,,,False,False
+861956,d4q,1,,Services,,960016.8,9700.0,,,False,True
+861957,g3h,1,,Travaux,,762660.0,10000.0,Equipement / A- Construction / A.1- Travaux de fouilles à l’air libre / Classe 5 Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 5,,False,False
+861959,d4q,1,,Travaux,,35048952.0,350500.0,,,False,False
+861973,d4q,1,,Fournitures,,45023362.2,500000.0,,,False,False
+862033,o8p,1,,Services,,724800.0,12000.0,,"D4. Routes, Autoroutes, Transport D5. Ouvrages d'art",False,False
+862039,o8p,1,,Services,,972306.0,15000.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DE TERRASSEMENT ET CHAUSSEES AVEC COUCHE DE ROULEMENT EN REVETEMENT SUPERFICIEL / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES CHAUSSEES BITUMINEUSES TYPE-1 A BASE DE MELANGE HYDROCARBONE COURANT / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES CHAUSSEES BITUMINEUSES TYPE-2 A BASE DE MELANGE HYDROCARBONE NON COURANT Y COMPRIS LE CONTROLE DES ETUDES DE FORMULATIONS DE BITUME / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DE LA QUALITE DE SIGNALISATION HORIZONTALE ROUTIERE / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DE LA QUALITE DE SIGNALISATION VERTICALE ROUTIERE / Classe 1,,False,False
+862050,d4q,1,,Travaux,,3000000.0,30000.0,,,False,False
+862096,d4q,1,,Travaux,,27600000.0,276000.0,,,True,False
+862097,f9f,1,,Travaux,,262626.24,5000.0,,"D18- Réseaux d'électricité basse et moyenne tension, réseaux téléphoniques et éclairage public",False,False
+862130,d4q,1,,Travaux,,504000.0,5100.0,,,False,False
+862135,d4q,1,,Fournitures,,669000.0,0.0,,,False,False
+862152,g3h,1,,Travaux,,749448.0,10000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 5,,False,False
+862193,a1t,1,,Services,,9000000.0,0.0,,,False,False
+862205,j8k,1,,Travaux,,10277768.81,150000.0,"Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 3 Habitat / 9 Gros-oeuvre / 9.1 Travaux courant en béton armé et maçonnerie. / Classe 4 Equipement / O- Revetements / O.1- Travaux de revêtements courants / Classe 2 Equipement / L- Menuiserie - Charpente / L.4- Menuiserie aluminium / Classe 2 Equipement / M- Plomberie - Chauffage - Climatisation / M.3- Travaux d'installation courante de chauffage et climatisation / Classe 2 Habitat / 11 Menuiserie métallique, aluminium et en pvc / 11.1 Sans objet. / Classe 3 Habitat / 13 Plomberie - Chauffage - Climatisation / 13.6 Travaux d'installation de gaz et d'air comprimé. / Classe 3",,False,True
+862257,o8p,1,,Fournitures,,0.0,0.0,,,False,False
+862291,j8k,1,,Travaux,,13934100.0,211800.0,Equipement / B- Travaux routiers et voirie urbaine / B.11- Travaux de dallage et bétonnage de la voirie urbaine / Classe 3 Equipement / B- Travaux routiers et voirie urbaine / B.6- Assises traitées et enrobés à chaud / Classe 3 Equipement / C- Eau potable - Assainissement - Conduites / C.3- Travaux courants de réseaux d’assainissement et ouvrages annexes / Classe 4 Habitat / 2 Travaux De Voirie / 2.2 Sans objet. / Classe 4 Habitat / 2 Travaux De Voirie / 2.3 Travaux d'assainissement de voirie. / Classe 4 Habitat / 3 Assainissement - Pose de conduites / 3.1 Travaux simples d'assainissement - conduites et ouvrages annexes. / Classe 2,,False,False
+862300,d4q,1,,Services,,960000.0,9600.0,,,False,False
+862301,d4q,1,,Fournitures,,504384.0,0.0,,,False,True
+862312,d4q,1,,Fournitures,,1605400.0,20000.0,,,False,False
+862320,d4q,1,,Services,,180000.0,3000.0,,,False,True
+862331,d4q,1,,Services,,240000.0,3000.0,,,False,True
+862342,g3h,1,Lot 01 : Travaux de réalisation du collecteur gravitaire longeant avenue al Qods (entre place Koweit et station de pompage Beni Makada,Travaux,Travaux de réalisation du collecteur gravitaire longeant avenue al Qods entre place Koweit et station de pompage Beni Makada,19331991.12,350000.0,,,False,False
+862342,g3h,3,Lot 03 : Travaux de réalisation de la conduite de refoulement,Travaux,Travaux de réalisation de la conduite de refoulement,26484828.0,500000.0,,,False,False
+862342,g3h,4,Lot 04 : Travaux de réalisation du collecteur gravitaire (galerie T180 et conduite DN 1000),Travaux,Travaux de réalisation du collecteur gravitaire (galerie T180 et conduite DN 1000),57474617.28,1000000.0,,,False,False
+862342,g3h,5,Lot 05 : travaux de réalisation du collecteur gravitaire (Tronçon Galerie T180 sur un linéaire de 2324 ml),Travaux,travaux de réalisation du collecteur gravitaire (Tronçon Galerie T180 sur un linéaire de 2324 ml),40947359.04,800000.0,,,False,False
+862342,g3h,6,Lot 6 : travaux de réalisation du collecteur gravitaire (Tronçon Galerie T180 sur un linéaire de 2257 ml),Travaux,travaux de réalisation du collecteur gravitaire (Tronçon Galerie T180 sur un linéaire de 2257 ml),36978480.72,700000.0,,,False,False
+862349,d4q,1,,Travaux,,600000.0,6000.0,,,False,False
+862351,d4q,1,,Travaux,,480000.0,4800.0,,,False,False
+862354,d4q,1,,Travaux,,1200000.0,12000.0,,,False,True
+862355,d4q,1,,Travaux,,2000400.0,20100.0,,,False,False
+862356,d4q,1,,Fournitures,,2160000.0,21600.0,,,False,False
+862357,d4q,1,,Travaux,,999600.0,10000.0,,,False,False
+862358,g3h,1,,Fournitures,,4270000.0,85000.0,,,False,False
+862359,g3h,1,,Travaux,,4560000.0,65000.0,,,False,False
+862366,j0w,1,,Travaux,,98764404.0,1400000.0,Equipement / A- Construction / A.1- Travaux de fouilles à l’air libre / Classe S Equipement / A- Construction / A.4- Travaux exceptionnels en béton armé pour bâtiment / Classe S Equipement / J- Electricite / J.1- Travaux d'installation électrique pour usage interne / Classe 1,,False,False
+862383,d4q,1,,Fournitures,,3517200.0,50000.0,,,False,False
+862384,y6u,1,,Services,,6021640.8,120432.81,,,False,False
+862391,o8p,1,,Travaux,,7200000.0,75000.0,,,False,False
+862395,d4q,1,,Travaux,,599970.0,6000.0,,,False,True
+862398,d4q,1,,Travaux,,54000.0,5400.0,,,False,True
+862402,d4q,1,,Travaux,,597360.0,6000.0,,,False,False
+862425,h5r,1,,Services,,367200.0,7000.0,,"D4. Routes, Autoroutes, Transport D5. Ouvrages d'art",False,True
+862429,q1s,1,,Fournitures,,278400.0,5000.0,,,False,True
+862439,d4q,1,,Travaux,,13282000.0,200000.0,,,False,False
+862440,q1s,1,,Travaux,,116400.0,2000.0,,,False,True
+862453,x6c,1,,Fournitures,,1683960.0,25200.0,,,False,False
+862464,f9f,1,,Travaux,,1840459.2,35000.0,Equipement / J- Electricite / J.6- Réalisation de réseau électrique MT et transformation MT-BT et réseaux basse tension / Classe 3,"D18- Réseaux d'électricité basse et moyenne tension, réseaux téléphoniques et éclairage public",False,False
+862466,d4q,1,,Travaux,,5420400.0,54300.0,,,False,False
+862486,a1t,1,,Services,,499500.0,10000.0,,,False,False
+862498,d4q,1,,Fournitures,,1005360.0,10000.0,,,False,True
+862499,d4q,1,,Travaux,,7024560.0,70300.0,,,False,False
+862503,d4q,1,,Travaux,,599874.0,6000.0,,,False,True
+862504,d4q,1,,Fournitures,,384000.0,3900.0,,,False,False
+862517,d4q,1,,Travaux,,300000.0,3000.0,,,False,True
+862526,d4q,1,,Travaux,,1200000.0,12000.0,,,False,False
+862529,d4q,1,,Travaux,,1497456.0,15000.0,,,False,False
+862532,d4q,1,,Travaux,,480000.0,0.0,,,False,False
+862546,d4q,1,,Travaux,,240000.0,3000.0,,,False,True
+862574,o8p,1,,Services,,959424.0,7500.0,,,False,False
+862592,j0w,1,,Travaux,,1722672.0,30000.0,Equipement / A- Construction / A.6- Travaux de construction des réservoirs courants en béton armé de capacité inférieure ou égale à 1000 m3 / Classe 5 Equipement / C- Eau potable - Assainissement - Conduites / C.1- Réseaux de conduites sous pression de petit diamètre inférieur ou égal à 400 mm et ouvrages annexes / Classe 5 Equipement / J- Electricite / J.3- Travaux d’installation électrique de plaques solaires / Classe 4,,False,False
+862594,d4q,1,,Services,,915024.0,9200.0,,,False,True
+862597,d4q,1,,Travaux,,2580000.0,0.0,,,False,True
+862599,p8x,1,,Travaux,,6905196.0,138000.0,,,False,True
+862601,j0w,1,,Travaux,,2620890.0,50000.0,Equipement / A- Construction / A.6- Travaux de construction des réservoirs courants en béton armé de capacité inférieure ou égale à 1000 m3 / Classe 5 Equipement / C- Eau potable - Assainissement - Conduites / C.1- Réseaux de conduites sous pression de petit diamètre inférieur ou égal à 400 mm et ouvrages annexes / Classe 5 Equipement / J- Electricite / J.3- Travaux d’installation électrique de plaques solaires / Classe 4,,False,False
+862602,d4q,1,,Fournitures,,336000.0,3400.0,,,False,True
+862610,d4q,1,,Travaux,,4999992.0,50000.0,,,False,False
+862611,d4q,1,,Travaux,,550698.0,0.0,,,False,True
+862613,p1v,1,,Fournitures,,0.0,3500.0,,,False,True
+862622,g3h,1,Lot n°1 : Pièces de branchements eau potable,Fournitures,"FOURNITURE DU MATERIEL, PIECES ET ACCESSOIRES DES RESEAUX D’EAU POTABLE Lot n°1 : Pièces de branchements eau potable",407820.0,4400.0,,,True,False
+862622,g3h,2,Lot n°2 : Pièces de Réparation et de Raccordement,Fournitures,"FOURNITURE DU MATERIEL, PIECES ET ACCESSOIRES DES RESEAUX D’EAU POTABLE Lot n°2 : Pièces de Réparation et de Raccordement",793500.0,8600.0,,,True,False
+862622,g3h,3,Lot n°3 : Pièces de Voirie,Fournitures,"FOURNITURE DU MATERIEL, PIECES ET ACCESSOIRES DES RESEAUX D’EAU POTABLE Lot n°3 : Pièces de Voirie",468000.0,5000.0,,,True,False
+862622,g3h,4,Lot n°4 : Accessoires du réseau d'eau potable,Fournitures,"FOURNITURE DU MATERIEL, PIECES ET ACCESSOIRES DES RESEAUX D’EAU POTABLE Lot n°4 : Accessoires du réseau d'eau potable",366000.0,4000.0,,,True,False
+862622,g3h,5,Lot n°5 : Robinetteries et Protections,Fournitures,"FOURNITURE DU MATERIEL, PIECES ET ACCESSOIRES DES RESEAUX D’EAU POTABLE Lot n°5 : Robinetteries et Protections",357600.0,3900.0,,,True,False
+862623,d4q,1,,Travaux,,9999600.0,100000.0,,,False,False
+862626,d4q,1,,Services,,1080000.0,10800.0,,,False,False
+862631,d4q,1,,Services,,345600.0,3456.0,,,False,True
+862639,f9f,1,,Travaux,,400100.4,8000.0,,,False,False
+862643,g3h,1,,Services,,1512000.0,15120.0,,,False,False
+862647,d4q,1,,Fournitures,,2160960.0,21609.0,,,False,False
+862651,x6c,1,,Fournitures,,600000.0,9000.0,,,False,False
+862654,x6c,1,,Travaux,,413940.0,6200.0,,,False,True
+862655,d4q,1,,Travaux,,2400000.0,24000.0,Equipement / I- Equipements hydromecaniques - Traitement d'eau potable - Automatisme / I.8- Travaux d'installation d'équipements d'épuration des eaux usées / Classe 4,,False,False
+862656,f9f,1,,Travaux,,400076.4,8000.0,,,False,False
+862662,d4q,1,,Travaux,,720000.0,7200.0,,,False,False
+862665,j8k,1,,Travaux,,12565724.35,190000.0,Habitat / 2 Travaux De Voirie / 2.2 Sans objet. / Classe 4 Equipement / B- Travaux routiers et voirie urbaine / B.6- Assises traitées et enrobés à chaud / Classe 2,,False,True
+862675,g3h,1,,Fournitures,,800868.0,9500.0,,,True,False
+862676,d4q,1,,Fournitures,,375600.0,3756.0,,,False,False
+862677,q9t,1,,Services,,151232.64,3000.0,,,False,True
+862680,d4q,1,,Travaux,,720000.0,7200.0,,,False,True
+862687,i1t,1,,Services,,165000.0,3000.0,,,False,False
+862688,g3h,1,,Travaux,,32223858.0,349000.0,,,True,False
+862691,g3h,1,,Services,,426000.0,5000.0,,,False,False
+862707,q0x,1,,Fournitures,,0.0,10800.0,,,False,True
+862709,t5y,1,,Services,,35694000.0,0.0,,,False,False
+862740,u6i,1,,Fournitures,,6936792.0,100000.0,,,False,False
+862743,o4d,1,,Services,,96000.0,1500.0,,,False,False
+862760,u6i,1,,Fournitures,,1150000.0,10000.0,,,False,False
+862761,m1w,1,,Services,,6009000.0,120100.0,,,False,False
+862764,o4d,1,,Services,,769045.2,12000.0,,,False,False
+862775,o8p,1,,Fournitures,,0.0,0.0,,,False,False
+862778,q9t,1,,Fournitures,,7200000.0,140000.0,,,False,False
+862783,u6i,1,,Services,,706200.0,10000.0,,,False,False
+862791,j8k,1,,Travaux,,13403634.0,210000.0,,,False,False
+862802,z9k,1,,Services,,160000.0,20000.0,,,False,True
+862807,o3f,1,,Services,,720000.0,10000.0,,,False,False
+862811,d4q,1,,Travaux,,11400000.0,114000.0,,,False,False
+862824,g8e,1,,Travaux,,119378649.48,1700000.0,"Equipement / J- Electricite / J.1- Travaux d'installation électrique pour usage interne / Classe 1 Equipement / J- Electricite / J.2- Travaux d'installation des équipements électriques et d'automatisme / Classe 1 Equipement / J- Electricite / J.3- Travaux d’installation électrique de plaques solaires / Classe 1 Equipement / J- Electricite / J.5- Réalisation de réseaux de branchement électrique basse tension / Classe 1 Equipement / J- Electricite / J.6- Réalisation de réseau électrique MT et transformation MT-BT et réseaux basse tension / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.2- Équipements audio-visuels / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.4- Gestion technique centralisée / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.6- Pré-câblage et réseau informatique / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.7- Détection et protection incendie et extinction automatique / Classe 1 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.5- Contrôle d'accès / Classe 1",,False,False
+862841,u6i,1,,Fournitures,,1500000.0,28000.0,,,False,False
+862842,q1s,1,,Travaux,,1442796.0,25000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 4,,False,False
+862844,o8p,1,,Services,,12000000.0,30000.0,,,False,False
+862845,f9f,1,,Services,,720000.0,14400.0,,,False,True
+862846,o8p,1,,Travaux,,6592256.4,100000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 3,,False,False
+862865,u6i,1,Appareils de mesure,Fournitures,Appareils de mesure,514800.0,10000.0,,,False,False
+862865,u6i,2,Matériel optique,Fournitures,Matériel optique,122400.0,2000.0,,,False,False
+862865,u6i,3,Raceway,Fournitures,Raceway,462000.0,9000.0,,,False,False
+862866,u6i,1,,Services,,3460000.0,50000.0,,,False,False
+862867,u6i,1,,Travaux,,1297962.0,25000.0,,,False,True
+862868,u6i,1,traitement des déchets dangereux et ménagers et nettoyage des locaux évacués au niveau de l’administration de l’INRH sise 02 Rue Tiznit Casablanca,Services,traitement des déchets dangereux et ménagers et nettoyage des locaux évacués au niveau de l’administration de l’INRH sise 02 Rue Tiznit Casablanca,575040.0,11000.0,,,False,False
+862868,u6i,2,"traitement des déchets dangereux au niveau du Centre Régional de l’INRH à Casablanca, sise 02 Bd Sidi Abderrahmane Ain Diab Casablanca",Services,"traitement des déchets dangereux au niveau du Centre Régional de l’INRH à Casablanca, sise 02 Bd Sidi Abderrahmane Ain Diab Casablanca",107280.0,2000.0,,,False,False
+862869,u6i,1,Broyeur,Fournitures,Broyeur,462000.0,9000.0,,,False,False
+862869,u6i,2,Skid Membranaire,Fournitures,Skid Membranaire,2640000.0,50000.0,,,False,False
+862869,u6i,3,unité de séchage,Fournitures,unité de séchage,3432000.0,0.0,,,False,False
+862873,f9f,1,,Services,,500000.0,10000.0,,"D3. Hydraulique urbaine D17- Voirie, réseaux d'assainissement et eau potable D18- Réseaux d'électricité basse et moyenne tension, réseaux téléphoniques et éclairage public",False,True
+862876,u6i,1,autoclave,Services,autoclave,720000.0,14000.0,,,False,False
+862876,u6i,2,tunnel de congélation,Fournitures,tunnel de congélation,276000.0,5000.0,,,False,False
+862876,u6i,3,décanteur à vis,Fournitures,décanteur à vis,348000.0,6000.0,,,False,False
+862876,u6i,4,extrudeuse,Fournitures,extrudeuse,960000.0,19000.0,,,False,False
+862876,u6i,5,séparateur de la chair,Fournitures,séparateur de la chair,223200.0,4000.0,,,False,False
+862876,u6i,6,affineur,Fournitures,affineur,198000.0,3000.0,,,False,False
+862876,u6i,7,Operculeuse,Services,Operculeuse,390000.0,7000.0,,,False,False
+862878,j0w,1,,Fournitures,,8792229.34,60000.0,,,False,False
+862882,d4q,1,,Fournitures,,23976000.0,240000.0,,,False,False
+862883,d4q,1,,Travaux,,2399970.0,24000.0,,,True,False
+862884,a1t,1,,Travaux,,915006.0,15000.0,,,False,False
+862889,d4q,1,,Travaux,,960000.0,9600.0,,,False,False
+862893,q1s,1,,Fournitures,,1266.0,900.0,,,False,False
+862894,d4q,1,,Services,,500000.0,5000.0,,,False,False
+862895,d4q,1,,Fournitures,,150000.0,3000.0,,,False,True
+862901,j8k,1,,Travaux,,2963308.8,46000.0,"Habitat / 6 Réseaux Téléphoniques / 6.1 Travaux simples de réseaux téléphoniques (poteaux et câblages). / Classe 4 Equipement / K- Courants faibles, traitement acoustique et audio-visuel / K.8- Travaux de réseaux téléphoniques / Classe 2",,False,False
+862902,o8p,1,,Services,,0.0,200000.0,,,False,False
+862904,q1s,1,,Services,,806400.0,10000.0,,"D4. Routes, Autoroutes, Transport D5. Ouvrages d'art",False,False
+862905,d4q,1,,Travaux,,7723344.0,77300.0,,,False,False
+862907,q1s,1,,Fournitures,,177636.6,3500.0,,,False,True
+862908,d4q,1,,Travaux,,420000.0,4200.0,,,False,True
+862909,j8k,1,,Services,,600000.0,90000.0,,,False,False
+862910,j8k,1,,Services,,204000.0,3000.0,,,False,False
+862912,j0w,1,place de préparation des poulets,Services,place de préparation des poulets,500.0,2000.0,,,False,False
+862912,j0w,12,BOUTIQUES DU CENTRE VENTE DE POULETS,Services,BOUTIQUES DU CENTRE VENTE DE POULETS,500.0,2000.0,,,False,False
+862912,j0w,7,BOUTIQUES DU CENTRE VENTE DE POULETS,Services,BOUTIQUES DU CENTRE VENTE DE POULETS,500.0,2000.0,,,False,False
+862912,j0w,9,BOUTIQUES DU CENTRE VENTE DE POULETS,Services,BOUTIQUES DU CENTRE VENTE DE POULETS,500.0,2000.0,,,False,False
+862915,o8p,1,,Travaux,,0.0,40000.0,,,False,False
+862920,j8k,1,,Travaux,,3562548.0,55000.0,Habitat / 2 Travaux De Voirie / 2.3 Travaux d'assainissement de voirie. / Classe 3 Equipement / B- Travaux routiers et voirie urbaine / B.11- Travaux de dallage et bétonnage de la voirie urbaine / Classe 3,,False,False
+862921,q9t,1,,Services,,540000.0,9000.0,,,False,False
+862922,q1s,1,,Fournitures,,1200000.0,23000.0,,,False,False
+862923,d4q,1,,Travaux,,720000.0,7200.0,,,False,False
+862924,q1s,1,,Fournitures,,2465000.0,45000.0,,,False,False
+862927,j0w,1,,Services,,600.0,2000.0,,,False,False
+862928,q1s,1,,Services,,2227068.48,30000.0,,,False,False
+862929,j0w,1,,Services,,1000.0,2000.0,,,False,False
+862931,j0w,1,,Services,,180000.0,5000.0,,,False,False
+862936,d4q,1,,Travaux,,85000.0,3000.0,,,False,True
+862945,m1w,1,,Services,,1860000.0,37000.0,,,False,False
+862946,q1s,1,,Services,,199128.0,3500.0,,,False,True
+862951,d4q,1,,Travaux,,200000.0,3000.0,,,False,True
+862954,j8k,1,,Travaux,,2898158.4,50000.0,Equipement / J- Electricite / J.4- Travaux d'éclairage public / Classe 3 Equipement / J- Electricite / J.6- Réalisation de réseau électrique MT et transformation MT-BT et réseaux basse tension / Classe 3,,False,False
+862969,d4q,1,,Travaux,,500000.0,5000.0,,,False,True
+862981,d4q,1,,Services,,488000.0,4900.0,,,False,True
+862983,a1t,1,,Travaux,,6268254.0,125000.0,,,False,False
+862985,p1v,1,,Services,,1100000.0,1265100.0,,,False,True
+862988,p1v,1,,Services,,110000.0,145250.0,,,False,True
+862991,g3h,1,,Travaux,,6000000.0,120000.0,Equipement / A- Construction / A.1- Travaux de fouilles à l’air libre / Classe 3 Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 3,,False,False
+862997,d4q,1,,Services,,107400.0,3000.0,,,False,True
+863001,d4q,1,,Travaux,,885600.0,8900.0,,,False,True
+863002,d4q,1,,Services,,1199040.0,12000.0,,,False,True
+863005,a1z,1,,Services,,996000.0,18000.0,,"D17- Voirie, réseaux d'assainissement et eau potable",False,False
+863006,q0x,1,,Travaux,,975744.0,15000.0,,,False,True
+863008,j8k,1,,Services,,1997940.0,10000.0,,,False,False
+863012,q1s,1,,Services,,240000.0,3600.0,,,False,True
+863016,d4q,1,,Travaux,,504000.0,5100.0,,,False,False
+863017,d4q,1,,Fournitures,,0.0,20000.0,,,False,False
+863027,d4q,1,,Travaux,,3000000.0,30000.0,,,False,False
+863028,q0x,1,,Travaux,,748260.0,10000.0,Equipement / J- Electricite / J.3- Travaux d’installation électrique de plaques solaires / Classe 4 Equipement / J- Electricite / J.4- Travaux d'éclairage public / Classe 4,,False,True
+863029,o8p,1,,Travaux,,12010716.0,100000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 2,,False,False
+863031,f9f,1,,Services,,24000000.0,0.0,,,False,True
+863042,f8y,1,,Services,,1200000.0,100000.0,,,False,False
+863047,o8p,1,,Fournitures,,0.0,0.0,,,False,False
+863058,g3h,1,,Travaux,,16654226.4,255000.0,,,True,False
+863060,h5r,1,,Services,,1794985.32,34000.0,,,False,False
+863063,o8p,1,Prestations de contrôle extérieur topographique • Lot 1 : Kenitra (Base maintenance/Sidi Ichou)- Ain Sbaa,Services,,21120000.0,264000.0,,,False,False
+863063,o8p,2,Prestations de contrôle extérieur topographique • Lot 2 : Ain Sbaa-Nouaceur,Services,,13620000.0,150000.0,,,False,False
+863063,o8p,3,Prestations de contrôle extérieur topographique • Lot 3 : Nouaceur-Marrakech,Services,,19476000.0,243450.0,,,False,False
+863066,p8x,1,,Services,,60000.0,0.0,,D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages,False,False
+863071,d4q,1,,Travaux,,510000.0,5100.0,,,False,False
+863077,d4q,1,,Fournitures,,1200000.0,12000.0,,,False,True
+863081,d4q,1,,Travaux,,1500000.0,15000.0,,,False,True
+863082,g3h,1,,Travaux,,15174000.0,200000.0,,,False,False
+863087,g8e,1,,Services,,672000.0,10000.0,,D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages,False,False
+863091,g8e,1,,Services,,336000.0,5000.0,,,False,False
+863092,g8e,1,,Services,,4200000.0,60000.0,,"D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages D17- Voirie, réseaux d'assainissement et eau potable",False,False
+863096,d4q,1,,Travaux,,2000000.0,20000.0,,,False,True
+863098,d0q,1,,Services,,70000.0,10000.0,,,False,False
+863101,d4q,1,,Services,,489600.0,4900.0,,,False,True
+863102,d4q,1,,Travaux,,2400000.0,24000.0,,,False,True
+863104,d4q,1,,Travaux,,1400000.0,14000.0,,,False,True
+863106,d4q,1,,Travaux,,300000.0,3000.0,,,False,True
+863116,m8x,1,,Services,,538800.0,8000.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES STRUCTURES METALLIQUES / Classe 2 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES EQUIPEMENTS ELECTRO-MECANIQUES ET HYDRO-MECANIQUES / Classe 2,,False,False
+863125,o8p,1,,Travaux,,4180716.0,80000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 3,,False,False
+863126,d4q,1,,Travaux,,11544000.0,200000.0,,,False,False
+863131,d4q,1,,Travaux,,19200000.0,192000.0,,,False,False
+863132,o8p,1,fourniture du Matériel sous station haute tension,Fournitures,fourniture du Matériel sous station haute tension,575109.6,7500.0,,,True,False
+863132,o8p,2,"Fourniture de matériel sous station basse tension, boulonnerie et accessoires",Fournitures,"Fourniture de matériel sous station basse tension, boulonnerie et accessoires",1829964.0,15000.0,,,True,False
+863132,o8p,3,Câbleries,Fournitures,Câbleries,243000.0,0.0,,,True,False
+863132,o8p,4,Instruments et outils de contrôle,Fournitures,Instruments et outils de contrôle,476400.0,0.0,,,True,False
+863136,d4q,1,,Travaux,,7000000.0,70000.0,,,False,False
+863148,o8p,1,,Services,,2820000.0,30000.0,,"D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages D17- Voirie, réseaux d'assainissement et eau potable",False,False
+863151,j8k,1,,Travaux,,30843732.0,460000.0,Habitat / 2 Travaux De Voirie / 2.2 Sans objet. / Classe 6 Equipement / B- Travaux routiers et voirie urbaine / B.6- Assises traitées et enrobés à chaud / Classe 1,,False,False
+863176,q0x,1,,Fournitures,,274000.0,2000.0,,,False,False
+863182,z9k,1,,Services,,300000.0,0.0,,,False,True
+863183,o8p,1,,Travaux,,30641268.0,480000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 2,,False,False
+863184,g8e,1,,Services,,480000.0,9000.0,,,False,False
+863186,o4d,1,,Services,,3509640.0,53000.0,,,False,False
+863192,h5r,1,,Services,,13950.0,10000.0,,,False,False
+863203,g8e,1,,Services,,832919.11,16000.0,,,False,False
+863215,a1z,1,,Travaux,,1167180.0,20000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 4,,False,False
+863218,l1f,1,,Travaux,,1240704.0,18000.0,Equipement / A- Construction / A.5- Travaux d’aménagement et de réhabilitation de bâtiments / Classe 4,,False,False
+863222,o8p,1,,Travaux,,25095681.6,350000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 2,,False,False
+863273,p8x,1,"-Lot n° 01 : Etudes Techniques Et Suivi Des Travaux de réhabilitation et d’aménagement de ONZE (11) établissements scolaires primaires pionniers relevant des communes : HDDADA, KENITRA, AMER SEFLIA et MEHDIA. Province de Kénitra.",Services,,60000.0,0.0,,D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages,False,False
+863273,p8x,2,"-Lot n° 02 : Etudes Techniques Et Suivi Des Travaux de réhabilitation et d’aménagement de ONZE (11) établissements scolaires primaires pionniers relevant des communes : BHARA OULED AYAD, BENMANSOUR, SIDI ALLAL TAZI et SIDI MOHAMED BENMANSOUR. Province de Kénitra",Services,,60000.0,0.0,,D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages,False,False
+863273,p8x,3,"-Lot n° 03 : Etudes Techniques Et Suivi Des Travaux de réhabilitation et d’aménagement de DIX (10) établissements scolaires primaires pionniers relevant des communes : de CHOUAFAA, AARBOUA, LALLA MIMOUNA, MOULEY BOUSSELHAM, OUED LMAKHAZINE, et SIDI BOUBKER LHAJ. Province de Kénitra.",Services,,60000.0,0.0,,D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages,False,False
+863273,p8x,4,-Lot n° 04 : Etudes Techniques Et Suivi Des Travaux de réhabilitation et d’aménagement de ONZE (11) établissements scolaires primaires pionniers relevant des communes : KENITRA ET SIDI TAIBI. Province de Kénitra.,Services,,60000.0,0.0,,D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages,False,False
+863273,p8x,5,- Lot n° 05 : Etudes Techniques Et Suivi Des Travaux de réhabilitation et d’aménagement de HUIT (08) lycées collégiaux pionniers à la commune urbaine de KENITRA. Province de Kénitra.,Services,,70000.0,0.0,,D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages,False,False
+863273,p8x,6,"- Lot n° 06 : Etudes Techniques Et Suivi Des Travaux de réhabilitation et d’aménagement de ONZE (11) établissements scolaires primaires pionniers relevant des communes : MOGRANE, LMNASRA et OULED SLAMA. Province de Kénitra.",Services,,60000.0,0.0,,D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages,False,False
+863273,p8x,7,"- Lot n° 07 : Etudes Techniques Et Suivi Des Travaux de réhabilitation et d’aménagement de DIX (10) établissements scolaires primaires pionniers relevant des communes : SOUK LARBAA, SOUK TOULATA et SIDI MOHAMED LAHMER. Province de Kénitra.",Services,,60000.0,0.0,,D14- Calcul de structures pour bâtiments à tous usages D15- Courant fort et courant faible pour bâtiments à tous usages D16- Réseaux des fluides pour bâtiments à tous usages,False,False
+863281,g8e,1,LOT N°1 : CONTROLE DE LA QUALITE DES TRAVAUX DE CONSTRUCTION DE QUATRE (4) PETITS BARRAGES DANS LES PROVINCES DE : KHOURIBGA - AZILAL.,Services,LOT N°1 : CONTROLE DE LA QUALITE DES TRAVAUX DE CONSTRUCTION DE QUATRE (4) PETITS BARRAGES DANS LES PROVINCES DE : KHOURIBGA - AZILAL.,2298600.0,42000.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DE TERRASSEMENT ET CHAUSSEES AVEC COUCHE DE ROULEMENT EN REVETEMENT SUPERFICIEL / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES PETITS BARRAGES / Classe 1,,False,False
+863281,g8e,2,LOT N°2 : CONTROLE DE LA QUALITE DES TRAVAUX DE CONSTRUCTION DE CINQ (5) PETITS BARRAGES DANS LES PROVINCES DE : BENI MELLAL-KHENIFRA.,Services,LOT N°2 : CONTROLE DE LA QUALITE DES TRAVAUX DE CONSTRUCTION DE CINQ (5) PETITS BARRAGES DANS LES PROVINCES DE : BENI MELLAL-KHENIFRA.,2953200.0,59000.0,Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DE TERRASSEMENT ET CHAUSSEES AVEC COUCHE DE ROULEMENT EN REVETEMENT SUPERFICIEL / Classe 1 Laboratoires / CONTROLE DE QUALITE / CONTROLE DES TRAVAUX DES PETITS BARRAGES / Classe 1,,False,False
+863293,a1t,1,,Fournitures,,160008.0,3200.0,,,False,True
+863296,b1d,1,,Fournitures,,1630656.0,32000.0,,,False,False
+863300,a1t,1,,Fournitures,,205044.0,4100.0,,,False,True
+863306,g3h,1,,Services,,648000.0,6500.0,,,False,True
+863312,o4d,1,,Fournitures,,2127600.0,0.0,,,False,False
+863313,a1t,1,,Fournitures,,208320.0,4160.0,,,False,True
+863314,g3h,1,,Travaux,,2760480.0,41500.0,,,False,True
+863317,g3h,1,,Services,,924288.0,13900.0,,,False,False
+863320,q0x,1,,Services,,750000.0,15000.0,,"D3. Hydraulique urbaine D5. Ouvrages d'art D7. Travaux maritimes et fluviaux D13. Etudes générales D14- Calcul de structures pour bâtiments à tous usages D19- Etudes d'impact sur l'environnement D20- Géologie, géophysique, hydrologie, hydrogéologie",False,False
+863322,a1t,1,,Fournitures,,208200.0,4160.0,,,False,True
+863326,g3h,1,,Services,,144000.0,2200.0,,,False,False
+863330,a1t,1,,Fournitures,,418800.0,8370.0,,,False,True
+863331,g3h,1,,Services,,180000.0,2700.0,,,False,False
+863335,g3h,1,,Travaux,,2199480.0,33000.0,,,False,True
+863349,o8p,1,,Services,,1252800.0,18000.0,,,False,False
+863350,a1t,1,,Fournitures,,174900.0,3400.0,,,False,True
+863352,o8p,1,,Travaux,,20603892.0,350000.0,Equipement / A- Construction / A.2- Travaux courants en béton armé-maçonnerie pour bâtiment / Classe 2,,False,False
+863354,a1t,1,,Fournitures,,203700.0,4000.0,,,False,True
+863355,j8k,1,,Services,,499200.0,8000.0,,D14- Calcul de structures pour bâtiments à tous usages,False,False
+863360,a1t,1,,Fournitures,,180000.0,3600.0,,,False,True
+863364,p1v,1,,Travaux,,2422038.0,48000.0,,,False,False
+863368,a1t,1,,Fournitures,,187200.0,3740.0,,,False,True
+863394,q0x,1,,Services,,17000.0,30000.0,,,False,False
+863398,a1t,1,,Services,,0.0,219200.0,,,False,False
+863402,d2q,1,,Fournitures,,570000.0,10000.0,,,False,True
+863403,i1t,1,"Lot 01 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars DRIHMIYINE, BAABCHA ZIOUAT, OLED ASSEM 2-OLED ASSEM1 - ZOUAYED ET DHAR LAHRECH",Travaux,"Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars rattaches a la commune territoriale Beni Malek repartis sur trois lots Lot 01 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars DRIHMIYINE, BAABCHA ZIOUAT, OLED ASSEM 2-OLED ASSEM1 - ZOUAYED ET DHAR LAHRECH Lot 02 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars RGHAGHYA , LALAOUIYENE ,OULED KACEM, COOP MAMOUNIA ET AZIB DIDWA, OULED MESSAOUD 1 ET OULED MESSAOUD 2 Lot 03 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars BOURK, LAAREB (OLED HCINE), OULED RIAHI , JBEL DEL LAAREB, OLED BENSBAA SAKHRA OULED AISSA , SIAKA (OULED ZYAR), SERBATA (OULED ZYAR), OULED MOUMEN (OULED ZIAR), JEAARNA , OULED MAJDOUB, LAAYAFTA ET OULED EL MEKKI",1313362.09,26000.0,,,False,False
+863403,i1t,2,"Lot 02 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars RGHAGHYA , LALAOUIYENE ,OULED KACEM, COOP MAMOUNIA ET AZIB DIDWA, OULED MESSAOUD 1 ET OULED MESSAOUD 2",Travaux,"Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars rattaches a la commune territoriale Beni Malek repartis sur trois lots Lot 01 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars DRIHMIYINE, BAABCHA ZIOUAT, OLED ASSEM 2-OLED ASSEM1 - ZOUAYED ET DHAR LAHRECH Lot 02 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars RGHAGHYA , LALAOUIYENE ,OULED KACEM, COOP MAMOUNIA ET AZIB DIDWA, OULED MESSAOUD 1 ET OULED MESSAOUD 2 Lot 03 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars BOURK, LAAREB (OLED HCINE), OULED RIAHI , JBEL DEL LAAREB, OLED BENSBAA SAKHRA OULED AISSA , SIAKA (OULED ZYAR), SERBATA (OULED ZYAR), OULED MOUMEN (OULED ZIAR), JEAARNA , OULED MAJDOUB, LAAYAFTA ET OULED EL MEKKI",1110269.92,22000.0,,,False,False
+863403,i1t,3,"Lot 03 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars BOURK, LAAREB (OLED HCINE), OULED RIAHI , JBEL DEL LAAREB, OLED BENSBAA SAKHRA OULED AISSA , SIAKA (OULED ZYAR), SERBATA (OULED ZYAR), OULED MOUMEN (OULED ZIAR), JEAARNA , OULED MAJDOUB, LAAYAFTA ET OULED EL MEKKI",Travaux,"Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars rattaches a la commune territoriale Beni Malek repartis sur trois lots Lot 01 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars DRIHMIYINE, BAABCHA ZIOUAT, OLED ASSEM 2-OLED ASSEM1 - ZOUAYED ET DHAR LAHRECH Lot 02 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars RGHAGHYA , LALAOUIYENE ,OULED KACEM, COOP MAMOUNIA ET AZIB DIDWA, OULED MESSAOUD 1 ET OULED MESSAOUD 2 Lot 03 : Travaux d’électrification HTA/BT et extensions du réseau basse tension pour électrification des foyers sis aux douars BOURK, LAAREB (OLED HCINE), OULED RIAHI , JBEL DEL LAAREB, OLED BENSBAA SAKHRA OULED AISSA , SIAKA (OULED ZYAR), SERBATA (OULED ZYAR), OULED MOUMEN (OULED ZIAR), JEAARNA , OULED MAJDOUB, LAAYAFTA ET OULED EL MEKKI",558138.3,11000.0,,,False,False
+863408,q0x,1,,Services,,2000.0,10000.0,,,False,False
+863419,d2q,1,,Fournitures,,2685360.0,45000.0,,,False,True
+863423,q0x,1,,Services,,100.0,1000.0,,,False,False
+863435,q0x,1,,Services,,48000.0,96000.0,,,False,False
+863440,d2q,1,,Services,,120000.0,2000.0,,,False,True
+863442,d2q,1,,Services,,120000.0,2000.0,,,False,True
+863449,p8x,1,,Services,,8409455.46,160000.0,,,False,False
+863450,p8x,1,,Services,,7273042.56,140000.0,,,False,False
+863451,p8x,1,,Services,,7052415.55,141000.0,,,False,False
+863452,m8x,1,"Liaison routière reliant L’MSEID-ABTEH du PK 0+000 au PK 37+518 sur 37,5 kms.",Services,,666600.0,10000.0,,,False,False
+863452,m8x,2,"liaison routière reliant L’MSEID-ABTEH du PK 37+518 au PK 75+300 sur 37,7 kms.",Services,,686520.0,10000.0,,,False,False
+863456,s3d,1,,Services,,6657600.0,130000.0,,,False,False
+863458,d0q,1,,Services,,250000.0,20000.0,,,False,False
+863460,d0q,1,,Services,,25000.0,3000.0,,,False,False
+863470,o8p,1,NORD : TNG/TTU/AHU,Travaux,NORD : TNG/TTU/AHU,720000.0,30000.0,,,False,False
+863470,o8p,2,ORIENT : NDR/OUD,Travaux,ORIENT : NDR/OUD,480000.0,30000.0,,,False,False
+863470,o8p,3,CENTRE 1 : RBA/FEZ/OZZ,Travaux,CENTRE 1 : RBA/FEZ/OZZ,720000.0,30000.0,,,False,False
+863470,o8p,4,CENTRE 2 : RAK/AGA,Travaux,CENTRE 2 : RAK/AGA,960000.0,30000.0,,,False,False
+863470,o8p,5,SUD : EUN/VIL,Travaux,SUD : EUN/VIL,480000.0,30000.0,,,False,False
+863479,w7t,1,,Travaux,,1248000.0,24000.0,,,False,False
+863502,d0q,1,,Services,,4000.0,1000.0,,,False,False
+863503,o8p,1,,Fournitures,,5400000.0,30000.0,,,False,False

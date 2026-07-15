@@ -1,0 +1,98 @@
+PROBLEMES CONSTATES SUR LES DONNEES DU PORTAIL (Appels d'Offres)
+==================================================================
+
+Ce document liste les limites et incohérences observées dans les données
+elles-mêmes, telles que publiées par le portail marchespublics.gov.ma - pas
+des bugs de notre code, mais des contraintes réelles à connaître pour
+exploiter ces données correctement.
+
+
+1. Aucun résultat d'attribution structuré pour les AO
+-------------------------------------------------------
+Contrairement aux bons de commande / avis d'achat (qui publient directement
+"Entreprise attributaire" et "Montant TTC" attribué), un appel d'offres ne
+publie jamais l'entreprise gagnante ni le montant final de façon structurée.
+Le seul indice disponible est un badge "Résultat définitif" sur le listing,
+sans aucun détail exploitable derrière. Un procès-verbal peut parfois être
+joint en pièce téléchargeable, mais dans les cas vérifiés, cette pièce était
+absente. Il est donc impossible aujourd'hui de comparer estimation initiale
+et prix réellement payé pour un AO.
+
+
+2. Montant estimatif dispersé sur deux emplacements différents
+-----------------------------------------------------------------
+Le montant estimatif n'apparaît jamais dans le listing principal. Il faut
+aller le chercher :
+  - dans une popup séparée "Descriptif des lots", si le marché comporte
+    plusieurs lots ;
+  - directement sur la fiche de la consultation, si le marché est mono-lot.
+Les deux cas doivent être gérés séparément ; ignorer l'un des deux revient
+à perdre l'estimation d'une majorité des marchés (environ 89% sont mono-lot
+dans notre échantillon).
+
+
+3. L'identifiant "orgAcronyme" n'identifie pas l'acheteur
+--------------------------------------------------------------
+Ce code, present dans chaque URL de consultation, ressemble a une cle
+d'organisme mais ne l'est pas : un meme orgAcronyme est partage par des
+dizaines d'acheteurs differents (jusqu'a 64 acheteurs distincts observes
+pour un seul orgAcronyme dans notre echantillon). Il s'agit plutot d'un
+code d'espace/portail (souvent lie a un ministere de tutelle), pas d'une
+cle vers l'organisme lui-meme. Le nom de l'acheteur doit etre lu comme du
+texte libre, sans cle stable pour le rattacher a une dimension "Organisme".
+
+
+4. Formats de montant non uniformes selon l'acheteur
+---------------------------------------------------------
+Deux conventions differentes coexistent pour le meme type de champ :
+  - "2 151 480,00"   (espace comme separateur de milliers)
+  - "35.409.600,00"  (point comme separateur de milliers)
+La virgule reste toujours le separateur decimal, mais le separateur de
+milliers depend de qui a saisi la donnee. Un parsing qui ne gere qu'un
+seul format produit des valeurs manquantes ou fausses sans avertissement.
+
+
+5. Filtre de recherche par date trompeur
+-----------------------------------------
+Le champ visible "Date de mise en ligne" ne restreint rien tant qu'un
+second champ, cache par defaut ("Date limite de remise des plis"), reste
+sur sa valeur par defaut (une fenetre etroite autour de la date du jour).
+Une recherche "tous les AO publies depuis telle annee" qui ne touche que
+le premier champ renvoie en realite uniquement les marches encore ouverts
+aujourd'hui, pas l'historique complet de l'annee visee.
+
+
+6. Pagination non conventionnelle (postback, pas d'URL)
+--------------------------------------------------------
+Le moteur de recherche est construit sur un framework ancien (PRADO) qui
+gere la pagination par soumission de formulaire avec un etat de page
+complet (PRADO_PAGESTATE), et non par un simple parametre d'URL comme
+?page=2. Une requete HTTP classique par URL ne suffit pas ; il faut
+reproduire cet echange de formulaire pour avancer d'une page a l'autre.
+
+
+7. Echantillon plafonne = biais de recence, pas un tirage aleatoire
+----------------------------------------------------------------------
+Quand on limite le nombre de resultats recuperes par annee (ex. 500), le
+tri par defaut du site renvoie les publications les plus recentes de cette
+annee-la en priorite. Concretement, un plafond de 500 pour l'annee 2024 a
+capture presque uniquement des marches de novembre-decembre 2024. Ce n'est
+pas un probleme de collecte mais une caracteristique du tri du site : toute
+analyse de saisonnalite ou de tendance mensuelle necessite une collecte
+complete de l'annee, pas un echantillon plafonne.
+
+
+8. Champ "statut" quasiment jamais renseigne sur les marches recents
+-------------------------------------------------------------------------
+Sur l'echantillon actuel (1500 marches), aucun n'affiche "Annule" ni
+"Resultat definitif" - la quasi-totalite des marches recuperes sont encore
+ouverts a la date de collecte. Ce champ ne peut etre correctement evalue
+qu'avec un historique incluant des marches deja clotures ou annules.
+
+
+9. Pieces jointes rarement disponibles, meme quand annoncees
+------------------------------------------------------------------
+Meme lorsqu'un marche est marque "Resultat definitif" sur le listing, la
+section telechargement de sa fiche est le plus souvent vide en pratique -
+aucun proces-verbal ni decision d'attribution reellement joint, malgre le
+badge affiche.
